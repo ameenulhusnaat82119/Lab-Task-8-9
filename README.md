@@ -1,2 +1,2 @@
 # Lab-Task-8
-repository of labs 8
+program using switch statement
