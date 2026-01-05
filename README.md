@@ -1,2 +1,2 @@
-# Lab-Task-8-9
-Combine repository of two labs 8,9
+# Lab-Task-8
+repository of labs 8
